@@ -1,3 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# About Me
 I am an incoming student in Boston University's Enterprise AI program with a multidisciplinary background across law, communications, and technical design. After earning my JD from UC Davis and practicing law, I spent over a decade at Cision leading media analysis teams covering tech and cloud computing. During that time, I independently designed and built custom AWS serverless applications to automate internal workflows, eliminate bottlenecks, and help my team work more effectively. Having recently completed an MS in Information and Communication Sciences, I am now transitioning into dedicated tech roles, with a focus on legal tech and AI governance. I want to build reliable, high-trust AI systems that respect strict compliance while solving concrete workflow challenges.
